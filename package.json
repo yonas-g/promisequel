@@ -1,0 +1,19 @@
+{
+  "name": "promisequel",
+  "version": "0.0.1",
+  "description": "promise wrapper for mysql library",
+  "main": "index.js",
+  "keywords": [
+    "mysql",
+    "promise",
+    "node",
+    "wrapper",
+    "mysql-wrapper",
+    "mysql-promise"
+  ],
+  "author": "yonas g",
+  "license": "MIT",
+  "dependencies": {
+    "mysql": "^2.17.1"
+  }
+}
