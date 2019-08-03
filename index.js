@@ -1,3 +1,5 @@
+const mysql = require('mysql')
+
 class Database {
     constructor(config) {
         this.config = config
