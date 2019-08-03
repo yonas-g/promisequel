@@ -1,13 +1,14 @@
 # promisequel
 simple mysql promise wrapper package
 
-usage example :
+install :
 
 ```
 npm i promisequel
 ```
 
-then from you application file
+
+usage example :
 
 
 ```JavaScript
