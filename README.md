@@ -23,9 +23,10 @@ const config = {
 
 const db = new promisequel(config)
 
-db.query('select * from example where id = ?', 1)
+db.query('select * from `example` where id = ?', 1)
     .then(result => {
         console.log(result)
+        db.close()
     }).catch(err => {
         console.log(err)
     })
