@@ -3,6 +3,13 @@ simple mysql promise wrapper package
 
 usage example :
 
+```
+npm i promisequel
+```
+
+then from you application file
+
+
 ```JavaScript
 const promisequel = require('promisequel')
 
