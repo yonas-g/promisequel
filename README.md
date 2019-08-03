@@ -2,7 +2,8 @@
 simple mysql promise wrapper package
 
 usage example :
-```
+
+```JavaScript
 const promisequel = require('promisequel')
 
 const config = {
